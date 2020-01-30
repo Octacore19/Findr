@@ -8,5 +8,5 @@ import retrofit2.http.Path
 
 interface DetailsAPI {
     @GET("/{bin}")
-    fun getCardDetails(@Path("bin") bin: String): Deferred<Response<CardModel>>
+    fun getCardDetailsAsync(@Path("bin") bin: String): Deferred<Response<CardModel>>
 }
