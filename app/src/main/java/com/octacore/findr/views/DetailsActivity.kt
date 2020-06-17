@@ -1,9 +1,8 @@
 package com.octacore.findr.views
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.ViewModelProviders
 import com.octacore.findr.R
 import com.octacore.findr.viewmodel.DetailsActivityViewModel

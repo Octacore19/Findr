@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "572877107070",
+    "firebase_url": "https://findr-50913.firebaseio.com",
+    "project_id": "findr-50913",
+    "storage_bucket": "findr-50913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572877107070:android:9b22bd7fa4bdeb88d5cd2f",
+        "android_client_info": {
+          "package_name": "com.octacore.commons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572877107070-f7fhq4m2i0en732925drjri0svahjdjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFG7MA-XeofN1IASHGLP8ieLlFI5ersM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572877107070-f7fhq4m2i0en732925drjri0svahjdjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572877107070:android:470d8eba834cfab5d5cd2f",
+        "android_client_info": {
+          "package_name": "com.octacore.findr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572877107070-56jg366iq1hovu2ntoa7saubpen8424s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.octacore.findr",
+            "certificate_hash": "a32aa522817ddbe8fce1dd1ec03828defb4d5709"
+          }
+        },
+        {
+          "client_id": "572877107070-f7fhq4m2i0en732925drjri0svahjdjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFG7MA-XeofN1IASHGLP8ieLlFI5ersM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572877107070-f7fhq4m2i0en732925drjri0svahjdjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
